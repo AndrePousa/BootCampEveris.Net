@@ -1,0 +1,9 @@
+C:\Users\Andre\source\Projetos Finalizados\dio-dotnet-poo-lab-2-master\CadastrodeSéries\Services\obj\Debug\netcoreapp3.1\Services.csprojAssemblyReference.cache
+C:\Users\Andre\source\Projetos Finalizados\dio-dotnet-poo-lab-2-master\CadastrodeSéries\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Users\Andre\source\Projetos Finalizados\dio-dotnet-poo-lab-2-master\CadastrodeSéries\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+C:\Users\Andre\source\Projetos Finalizados\dio-dotnet-poo-lab-2-master\CadastrodeSéries\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\Projetos Finalizados\dio-dotnet-poo-lab-2-master\CadastrodeSéries\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+C:\Users\Andre\source\Projetos Finalizados\dio-dotnet-poo-lab-2-master\CadastrodeSéries\Services\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\Andre\source\Projetos Finalizados\dio-dotnet-poo-lab-2-master\CadastrodeSéries\Services\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\Andre\source\Projetos Finalizados\dio-dotnet-poo-lab-2-master\CadastrodeSéries\Services\obj\Debug\netcoreapp3.1\Services.dll
+C:\Users\Andre\source\Projetos Finalizados\dio-dotnet-poo-lab-2-master\CadastrodeSéries\Services\obj\Debug\netcoreapp3.1\Services.pdb
